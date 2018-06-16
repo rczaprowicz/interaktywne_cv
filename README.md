@@ -1,7 +1,7 @@
-### Poznaj mnie !
+### Radosław Czaprowicz
 
 
-### ulubione narzędzia testerskie:
+### Ulubione narzędzia testerskie:
  - Selenium
  - Appium
  - JIRA
